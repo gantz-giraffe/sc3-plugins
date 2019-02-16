@@ -1,5 +1,5 @@
 class:: DoubleNestedAllpassL
-summary:: Nested Allpass filters as proposed by Vercoe and Pluckett
+summary:: Nested Allpass filters as proposed by Vercoe and Puckett
 related:: Classes/NestedAllpassN, Classes/NestedAllpassL, Classes/NestedAllpassC, Classes/DoubleNestedAllpassN, Classes/DoubleNestedAllpassC
 categories:: UGens>Delays
 
